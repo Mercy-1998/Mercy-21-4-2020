@@ -1,3 +1,7 @@
+#Mercy-23-4-2020
+
+Collected details for the project and working on planning for my project, and searching on some kind of npm errors.Done this much today.
+
 #Mercy-22-4-2020
 
 done.. upto creating.. overlayout.. like creating cards. wthout adding function.Done that much today.I will share the screenshot
